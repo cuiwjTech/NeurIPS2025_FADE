@@ -32,7 +32,7 @@ The graph neural ODE model is based on the ICLR 2024 [FROND](https://github.com/
 
 If you find our work useful, please cite us as follows:
 ```
-@INPROCEEDINGS{cui2025neural,
+@INPROCEEDINGS{kangneural,
   title={Neural Fractional Attention Differential Equations},
   author={Qiyu Kang and Wenjun Cui and Xuhao Li and Yuxin Ma and Xueyang Fu and Wee Peng Tay and Yidong Li and Zhengjun Zha},
   booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
