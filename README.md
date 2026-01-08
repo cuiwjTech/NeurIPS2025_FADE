@@ -12,7 +12,7 @@ python run_GNN_frac_all.py
 --block constant_frac/ att_frac
 --method predictor/ predictor_corrector
 --alpha_ode  between (0,1] the value of beta in the paper
---time     integration time
+--time   integration time 
 --step_size  
 
 FOR EXAMPLE:
